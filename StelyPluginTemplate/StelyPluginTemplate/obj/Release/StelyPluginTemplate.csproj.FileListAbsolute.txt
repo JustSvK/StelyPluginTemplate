@@ -1,0 +1,6 @@
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\bin\Release\StelyPluginTemplate.dll
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\bin\Release\StelyPluginTemplate.pdb
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\obj\Release\StelyPluginTemplate.csprojAssemblyReference.cache
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\obj\Release\StelyPluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\obj\Release\StelyPluginTemplate.dll
+C:\Users\janik\OneDrive\Počítač\StelyPluginBase\StelyPluginTemplate\StelyPluginTemplate\obj\Release\StelyPluginTemplate.pdb
